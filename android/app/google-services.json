@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "349961247436",
+    "firebase_url": "https://car-mobile-fixer-default-rtdb.firebaseio.com",
+    "project_id": "car-mobile-fixer",
+    "storage_bucket": "car-mobile-fixer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349961247436:android:b8fa067bcfc3fd0c358069",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHQ4lJtJHJhyY7YMdBPD2BdaELJchJnMk"
+        },
+        {
+          "current_key": "AIzaSyBqMeOzjD75OVHJP5v1MNwwthibfttuX7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349961247436:android:170ad5ff3b84f9a3358069",
+        "android_client_info": {
+          "package_name": "com.example.loan_app_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHQ4lJtJHJhyY7YMdBPD2BdaELJchJnMk"
+        },
+        {
+          "current_key": "AIzaSyBqMeOzjD75OVHJP5v1MNwwthibfttuX7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
